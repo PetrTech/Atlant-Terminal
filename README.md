@@ -4,7 +4,7 @@
 <h1 align="center">Atlant Terminal</h1>
 <p align="center">Targetted for Windows power users. If you aren't one, you won't find any benefit in this. However it would be nice if you starred :)</p>
 
-<p align="center">Linux will not be supported, some linux commands will.<br/></p>
+<p align="center">.NET 5.0 Required.<br/>Linux will not be supported, some linux commands will.<br/></p>
 <h2 align="center">Example commands:<br/></h2>
 
 <p align="center">
